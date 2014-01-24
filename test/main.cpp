@@ -12,4 +12,11 @@ int main(int argc, char *argv[])
     if(1) w.show();
 
     ww
+
+
+
+
+            funck
+
+
 }
